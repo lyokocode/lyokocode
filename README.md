@@ -2,7 +2,7 @@
 
 # Hi there, I'm Aelita :smirk:
 
-## <font color="rebeccapurple"> React Developer `<Coding/>` & Veterinarian :cow: :horse: :dog: :cat: :sheep: </font> 
+## <font color="rebeccapurple"> React Developer `<Coding/>` & Veterinarian :horse: :dog: :cat: :cow: :sheep: </font> 
 
 <br/>
 
