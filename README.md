@@ -1,6 +1,6 @@
 <img src="https://c.tenor.com/w0gKDH67e3YAAAAd/code-lyoko-aelita.gif" align = "right" width="400" height="300" >
 
-# Hi there, I'm Aelita <img src="https://e7.pngegg.com/pngimages/877/434/png-clipart-aelita-schaeffer-code-lyoko-quest-for-infinity-jeremie-belpois-franz-hopper-code-lyoko-logo-code-thumbnail.png" width="100" height="100"  />
+# Hi there, I'm Aelita :brush:  />
 
 ## <font color="rebeccapurple"> React Developer `<Coding/>` & Veterinarian :horse: :dog: :cat: :cow: :sheep: </font> 
 
