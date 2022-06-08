@@ -1,6 +1,6 @@
 <img src="https://c.tenor.com/w0gKDH67e3YAAAAd/code-lyoko-aelita.gif" align = "right" width="400" height="300" >
 
-# Hi there, I'm Aelita :brush:  />
+# Hi there, I'm Aelita 😏  />
 
 ## <font color="rebeccapurple"> React Developer `<Coding/>` & Veterinarian :horse: :dog: :cat: :cow: :sheep: </font> 
 
