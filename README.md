@@ -20,9 +20,9 @@
 
  <img src="https://avatars.githubusercontent.com/u/958072?s=48&v=4" width="30" align="left" />
 
- <img src="https://avatars.githubusercontent.com/u/958072?s=48&v=4" width="30" align="left" />
+ <img src="https://avatars.githubusercontent.com/u/25158?s=48&v=4" width="30" align="left" />
 
- <img src="https://avatars.githubusercontent.com/u/958072?s=48&v=4" width="30" align="left" />
+ <img src="https://avatars.githubusercontent.com/u/6412038?s=48&v=4" width="30" align="left" />
 
 <img src="https://camo.githubusercontent.com/f6128b6a17c28ec054b7ab67e595d39f503a0e17b116901141c05e1a1016985a/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" width="30" align="left" />
 
