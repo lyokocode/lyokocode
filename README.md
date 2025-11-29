@@ -72,5 +72,6 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+![ÆELITA's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyococode&show_icons=true&theme=radical&cache_seconds=86400)
 
 ###
