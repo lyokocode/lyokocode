@@ -71,13 +71,10 @@
 
 ###
 
-## 🔥 My Stats
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lyokocode&theme=radical" alt="Trophies" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lyokocode&theme=react-dark" alt="Activity Graph" />
 </p>
 
-###
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyokocode&theme=radical" />
+</div>
